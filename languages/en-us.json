@@ -1,0 +1,10 @@
+{
+  "dotCMSObjectType" : "Language",
+  "id" : 1,
+  "languageCode" : "en",
+  "countryCode" : "US",
+  "language" : "English",
+  "country" : "United States",
+  "defaultLanguage" : true,
+  "isoCode" : "en-us"
+}
