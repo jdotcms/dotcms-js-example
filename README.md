@@ -10,7 +10,14 @@ This project encapsulates a blank starter + a content type called CoffeeBar (wit
 For instance:
 http://localhost:8080/api/js/coffee?coffeeId=20285e8ed523860e67c92fd71ecc7cc9
 
-Will retrieve the object under that id, plus a random coffee image, it could be 
+Keep in mind the folder structure will match with the url api/js/coffee, 
+you will have under the site browser a folder structure such as 
+application/apijs/coffee
+
+Where coffee is the entity folder, there you can drop differents REST verbs as a files, such as
+get.js, post.js, put.js, delete.js, etc.
+
+If you run the previous url, it will retrieve the object under that id, plus a random coffee image, it could be 
 something such as (the image may change):
 
 {
