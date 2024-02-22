@@ -22,6 +22,7 @@ The convention to follow is to put all your rest entities under apijs folder, fo
 You can drop different rest verbs as files under the entity folder, such as
 get.js, post.js, put.js, delete.js, etc.
 
+## JAVASCRIPT
 In our example as soon as you upload the repo, you can run this url locally:
 http://localhost:8080/api/js/coffee?coffeeId=20285e8ed523860e67c92fd71ecc7cc9
 
